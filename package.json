@@ -1,0 +1,36 @@
+{
+  "name": "postgraphql-pkg",
+  "version": "1.0.0",
+  "description": "create resolver pkg with CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novayadi85/postgraphql-pkg.git"
+  },
+  "author": "belogajum87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novayadi85/postgraphql-pkg/issues"
+  },
+  "homepage": "https://github.com/novayadi85/postgraphql-pkg#readme",
+  "dependencies": {
+    "@octokit/rest": "^16.40.0",
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.4",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.131.0",
+    "touch": "^3.1.0",
+    "replace-in-file": "^5.0.2",
+    "ncp": "^2.0.0",
+    "replace": "^1.1.5"
+  }
+}
