@@ -27,7 +27,7 @@
     "inquirer": "^7.0.4",
     "lodash": "^4.17.21",
     "minimist": "^1.2.3",
-    "simple-git": "^1.131.0",
+    "simple-git": "^3.5.0",
     "touch": "^3.1.0",
     "replace-in-file": "^5.0.2",
     "ncp": "^2.0.0",
